@@ -35,3 +35,13 @@ $ npm run dev
   $ cd pd
   $ ./pocketbase.exe serve
   ```
+##  Demo
+
+- Personal Information
+  ![Personal Information](personalinfo.png)
+  
+- Education Background
+  ![Education Background](./edu.PNG)
+  
+- Referees
+  ![Referees](referees.PNG)
